@@ -1,0 +1,5 @@
+ixgbe-dkms (5.3.5-0~xenial0+exo1) xenial; urgency=medium
+
+  * Initial package.
+
+ -- Vincent Bernat <bernat@debian.org>  Tue, 30 Jan 2018 15:06:57 +0100
